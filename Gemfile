@@ -1,0 +1,6 @@
+ruby '2.5.1'
+gem 'sinatra'
+gem 'shotgun'
+gem 'pry'
+gem 'rubocop', '~> 0.57.2'
+gem 'shotgun'
